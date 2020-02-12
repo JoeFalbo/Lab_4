@@ -1,0 +1,14 @@
+/* Add any css you want to use for you website here */
+
+.ht {
+	color: gold;
+}
+
+table, th, td {
+  border: 2px solid black;
+}
+
+.tablehead {
+	font-weight: 2px;
+	font-size: 18px;
+}
